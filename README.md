@@ -38,7 +38,10 @@ Lead Sniper is an automated workflow built using **n8n** that identifies high-va
 
 ## 📷 Screenshot
 
+![Workflow Sreen Recording](workflow_sr.mp4)
+
 ![Workflow](workflow.png)
+
 ![Slack Output](slack.png)
 
 ---
@@ -46,7 +49,6 @@ Lead Sniper is an automated workflow built using **n8n** that identifies high-va
 ## 📂 Files
 
 - `workflow.json` → n8n export
-- `logic-log.md` → explanation of approach
 
 ---
 
